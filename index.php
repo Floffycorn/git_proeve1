@@ -27,7 +27,11 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-<!-- Her skal sidens indhold ligge -->
+<ul>
+    <li>Mælk</li>
+    <li>Lasagne</li>
+    <li>Chokolade</li>
+</ul>
 
 </body>
 </html>
